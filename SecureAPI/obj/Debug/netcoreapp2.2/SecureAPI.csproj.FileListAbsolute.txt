@@ -1,0 +1,14 @@
+C:\Users\parveen.giri\source\repos\SecureAPI\SecureAPI\bin\Debug\netcoreapp2.2\SecureAPI.deps.json
+C:\Users\parveen.giri\source\repos\SecureAPI\SecureAPI\bin\Debug\netcoreapp2.2\SecureAPI.runtimeconfig.json
+C:\Users\parveen.giri\source\repos\SecureAPI\SecureAPI\bin\Debug\netcoreapp2.2\SecureAPI.runtimeconfig.dev.json
+C:\Users\parveen.giri\source\repos\SecureAPI\SecureAPI\bin\Debug\netcoreapp2.2\SecureAPI.dll
+C:\Users\parveen.giri\source\repos\SecureAPI\SecureAPI\obj\Debug\netcoreapp2.2\SecureAPI.csprojAssemblyReference.cache
+C:\Users\parveen.giri\source\repos\SecureAPI\SecureAPI\obj\Debug\netcoreapp2.2\SecureAPI.csproj.CoreCompileInputs.cache
+C:\Users\parveen.giri\source\repos\SecureAPI\SecureAPI\obj\Debug\netcoreapp2.2\SecureAPI.RazorAssemblyInfo.cache
+C:\Users\parveen.giri\source\repos\SecureAPI\SecureAPI\obj\Debug\netcoreapp2.2\SecureAPI.RazorAssemblyInfo.cs
+C:\Users\parveen.giri\source\repos\SecureAPI\SecureAPI\obj\Debug\netcoreapp2.2\SecureAPI.AssemblyInfoInputs.cache
+C:\Users\parveen.giri\source\repos\SecureAPI\SecureAPI\obj\Debug\netcoreapp2.2\SecureAPI.AssemblyInfo.cs
+C:\Users\parveen.giri\source\repos\SecureAPI\SecureAPI\obj\Debug\netcoreapp2.2\SecureAPI.RazorTargetAssemblyInfo.cache
+C:\Users\parveen.giri\source\repos\SecureAPI\SecureAPI\bin\Debug\netcoreapp2.2\SecureAPI.pdb
+C:\Users\parveen.giri\source\repos\SecureAPI\SecureAPI\obj\Debug\netcoreapp2.2\SecureAPI.dll
+C:\Users\parveen.giri\source\repos\SecureAPI\SecureAPI\obj\Debug\netcoreapp2.2\SecureAPI.pdb
